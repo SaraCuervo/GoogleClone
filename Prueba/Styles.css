@@ -1,0 +1,75 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+html{
+    font-size: 62.5%;
+    background-color: white;
+}
+.logo{
+    width: 33.8rem;
+    height: 12rem;
+    position: absolute;
+    left: 50rem;
+    top: 18rem;
+}
+.nav{
+    font-size: 1.6rem;
+    text-align: right;
+    padding: 10px;
+    left: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.nav-gmail{
+    padding: 10px;
+}
+.nav-imgs{
+    padding: 10px;
+}
+footer{
+    position: relative;
+    top: 56.5rem;
+    width: 136.6rem;
+    height: 3.5rem;
+    font-size: 1.8rem;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+}
+.ft-2, .ft-1{
+ margin: 10px;
+ bottom: 0;
+ color: rgb(206, 206, 206);
+}
+
+
+.feeling{
+  border: grey;
+  border-radius: 5px;
+  color: grey;
+  width: 12rem;
+  height: 3rem;
+  position: absolute;
+  top: 38.5rem;
+  left: 52rem;
+}
+.buscar{
+    border: grey;
+    border-radius: 5px;
+    color: grey;
+    width: 13rem;
+    height: 3rem;
+    position: absolute;
+    top: 38.5rem;
+    left: 67rem;  
+}
+#buscador{
+    top: 33rem;
+    left: 46rem;
+    width: 42rem;
+    height: 3.2rem;
+    border-color: rgb(251, 101, 101);
+    border-radius: 30px;
+    position: absolute;
+
+}
